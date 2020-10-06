@@ -1,1 +1,2 @@
 # Data-Mining-and-Machine-Learning-1
+This project is an analysis on the customer behavior using multiple machine learning models developed to analyze the behavior of customer and to predic the churn of customer from an organization. This project encloses about 5 diffrent machine learning models including Decision Tree, Random Forest, Logistic Regression, KNN Classification and Support Vector Machine algorithms. The models were developed in R programming language.
